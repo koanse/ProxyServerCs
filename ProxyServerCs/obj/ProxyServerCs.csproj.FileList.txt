@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ProxyServerCs.Form1.resources
+obj\Debug\ProxyServerCs.Properties.Resources.resources
+obj\Debug\ProxyServerCs.csproj.GenerateResource.Cache
+bin\Debug\ProxyServerCs.exe
+bin\Debug\ProxyServerCs.pdb
+obj\Debug\ProxyServerCs.exe
+obj\Debug\ProxyServerCs.pdb
